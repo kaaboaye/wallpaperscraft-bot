@@ -1,0 +1,23 @@
+{
+  "name": "wallpaperscraft-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "cheerio": "^1.0.0-rc.2",
+    "mkdirp": "^0.5.1",
+    "superagent": "^3.8.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0"
+  }
+}
